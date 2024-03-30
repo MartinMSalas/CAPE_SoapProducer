@@ -1,1 +1,7 @@
 com/example/producingwebservice/ProducingWebServiceApplication.class
+io/spring/guides/gs_producing_web_service/GetCountryResponse.class
+io/spring/guides/gs_producing_web_service/GetCountryRequest.class
+io/spring/guides/gs_producing_web_service/package-info.class
+io/spring/guides/gs_producing_web_service/ObjectFactory.class
+io/spring/guides/gs_producing_web_service/Country.class
+io/spring/guides/gs_producing_web_service/Currency.class
